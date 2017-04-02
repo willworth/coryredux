@@ -90,3 +90,8 @@ smart           | dumb
 Stateful        | stateless
 controller view | view
 
+
+
+App.js is main entry point.
+it passes down the children it receives as props
+children will be passed in from react router
